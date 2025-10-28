@@ -12,6 +12,7 @@
 
 # testing
 /coverage
+postcss.config.mjs
 
 # next.js
 /.next/
@@ -19,6 +20,11 @@
 
 # production
 /build
+
+/public/
+
+/app/favicon.ico
+
 
 # misc
 .DS_Store
